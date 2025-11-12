@@ -22,24 +22,13 @@ Time series analysis of police killings trends
 Comparison of police killing demographics with population demographics
     
 
-Setup and Usage
 
-    Clone the repository
+Insights and Impact
+Significant racial disparities exist in fatal police shootings, with Black and Hispanic populations disproportionately affected compared to their population share.
 
-    Install Python dependencies (pandas, seaborn, matplotlib, plotly, scipy, numpy)
+Higher poverty rates correlate with lower high school graduation rates and higher incidences of police killings.
 
-    Run police_data_project.py to reproduce all analyses and visualizations
+Median household income and educational attainment show inverse relationships with police killing rates by state.
 
-    Review output graphs and summary statistics in Jupyter notebook or script outputs
-
-
-  Insights and Impact
-
-    Significant racial disparities exist in fatal police shootings, with Black and Hispanic populations disproportionately affected compared to their population share.
-
-    Higher poverty rates correlate with lower high school graduation rates and higher incidences of police killings.
-
-    Median household income and educational attainment show inverse relationships with police killing rates by state.
-
-    Visualizations effectively communicate complex socio-economic patterns influencing these tragic events.
+Visualizations effectively communicate complex socio-economic patterns influencing these tragic events.
 
