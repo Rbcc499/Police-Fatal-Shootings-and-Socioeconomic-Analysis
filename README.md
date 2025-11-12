@@ -8,6 +8,7 @@ Key Features
 
 Data cleaning and standardization to align multiple sources
 
+
 State and city-level aggregation of incidents and socioeconomic indicators
 
 Statistical correlation analysis between police shootings and poverty, education
