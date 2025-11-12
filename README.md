@@ -6,19 +6,19 @@ This project analyzes fatal shootings by police officers in the US based on data
    
 Key Features
 
-    Data cleaning and standardization to align multiple sources
+Data cleaning and standardization to align multiple sources
 
-    State and city-level aggregation of incidents and socioeconomic indicators
+State and city-level aggregation of incidents and socioeconomic indicators
 
-    Statistical correlation analysis between police shootings and poverty, education
+Statistical correlation analysis between police shootings and poverty, education
 
-    Visualizations including bar plots, pie charts, age distribution histograms, and choropleth maps
+Visualizations including bar plots, pie charts, age distribution histograms, and choropleth maps
 
-    Analysis stratified by race, gender, age, and manner of death
+Analysis stratified by race, gender, age, and manner of death
 
-    Time series analysis of police killings trends
+Time series analysis of police killings trends
 
-    Comparison of police killing demographics with population demographics
+Comparison of police killing demographics with population demographics
     
 
 Setup and Usage
