@@ -15,4 +15,12 @@ This project investigates patterns in U.S. police-related deaths from 1930–202
 - Explored socioeconomic disparities and racial disproportionality through comparative visualizations and statistical relationships.
 
 2) Skills Demonstrated
-Data Integration · Data Cleaning · Statistical Analysis · Visualization · Matplotlib · Seaborn · Plotly · Regression Analysis · Social Data Analytics
+- Data Integration
+- Data Cleaning
+- Statistical Analysis
+- Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+- Regression Analysis
+- Social Data Analytics
