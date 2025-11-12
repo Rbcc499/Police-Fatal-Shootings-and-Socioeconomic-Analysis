@@ -1,35 +1,18 @@
 # Police-Fatal-Shootings-and-Socioeconomic-Analysis
-This project analyzes fatal shootings by police officers in the US based on data from The Washington Post. The shooting data is combined with census statistics on: 
-1) Racial demographic breakdowns
-2) High school graduation rates
-3) Poverty rates by state
-   
-Key Features
-
-Data cleaning and standardization:
+This project investigates patterns in U.S. police-related deaths from 1930–2025 and their relationship with socioeconomic and demographic variables such as poverty, education, race, and mental health based on data acquired by The Washington Post census data. The goal was to visualize correlations and disparities across states and cities.   
 
 
+1) Key Features
+- Designed a data cleaning pipeline (cleaner() function) to standardize multiple datasets (education, poverty, income, race, and police deaths).
+- Merged heterogeneous data sources and computed derived statistics such as mean poverty rate, high school completion rates, and racial demographics per state and city.
+- Conducted correlation analysis between education and poverty using linear regression (scipy.stats.linregress) and KDE joint plots.
+- Created a variety of visual analyses, including:
+- Bar and pie charts of deaths by race, gender, age, and weapon type
+- Choropleth map showing police killings by state across 1930–2025
+- Box plots exploring gender differences in manner of death
+- Race-proportional comparisons between state/city demographics and police killing rates
+- Trend analysis of police killings per year with regression slope estimation
+- Explored socioeconomic disparities and racial disproportionality through comparative visualizations and statistical relationships.
 
-State and city-level aggregation of incidents and socioeconomic indicators
-
-Statistical correlation analysis between police shootings and poverty, education
-
-Visualizations including bar plots, pie charts, age distribution histograms, and choropleth maps
-
-Analysis stratified by race, gender, age, and manner of death
-
-Time series analysis of police killings trends
-
-Comparison of police killing demographics with population demographics
-    
-
-
-Insights and Impact
-Significant racial disparities exist in fatal police shootings, with Black and Hispanic populations disproportionately affected compared to their population share.
-
-Higher poverty rates correlate with lower high school graduation rates and higher incidences of police killings.
-
-Median household income and educational attainment show inverse relationships with police killing rates by state.
-
-Visualizations effectively communicate complex socio-economic patterns influencing these tragic events.
-
+2) Skills Demonstrated
+Data Integration · Data Cleaning · Statistical Analysis · Visualization · Matplotlib · Seaborn · Plotly · Regression Analysis · Social Data Analytics
