@@ -6,7 +6,8 @@ This project analyzes fatal shootings by police officers in the US based on data
    
 Key Features
 
-Data cleaning and standardization to align multiple sources
+Data cleaning and standardization:
+
 
 
 State and city-level aggregation of incidents and socioeconomic indicators
